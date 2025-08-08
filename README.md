@@ -1,78 +1,109 @@
-<h1 align="center">Truong Pham</h1>
-<p align="center">
-  Freelance Web & Mobile Developer · IT Help Desk · Clean & Maintainable Software
-</p>
+# Truong Pham
 
-<p align="center">
-  <a href="mailto:zachudson12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-1f2937?style=flat&labelColor=111827" alt="Email">
-  </a>
-  <a href="https://github.com/rustybrozen">
-    <img src="https://img.shields.io/badge/GitHub-rustybrozen-111827?style=flat&logo=github" alt="GitHub">
-  </a>
-  <a href="https://portfolio-ten-gamma-17.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0f766e?style=flat" alt="Portfolio">
-  </a>
-</p>
+**Web & Mobile Developer | IT Student | Building Clean, Modern Applications**
+
+[![Email](https://img.shields.io/badge/Email-zachudson12@gmail.com-1f2937?style=flat&labelColor=111827)](mailto:zachudson12@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-rustybrozen-111827?style=flat&logo=github)](https://github.com/rustybrozen)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0f766e?style=flat)](https://portfolio-ten-gamma-17.vercel.app/)
 
 ---
 
 ## About Me
-I specialize in building **modern web and mobile applications** with a minimalist approach.  
-I also have hands-on experience in **IT help desk** support, troubleshooting, and providing reliable technical assistance.  
-I value **clarity, performance, and maintainability** in every project I work on.
+
+Hey there! I'm a junior web and mobile developer and IT student from Vietnam, passionate about building modern web and mobile applications. Currently studying Information Technology while freelancing and working on personal projects.
+
+I love exploring new technologies, especially AI-powered tools that make development more efficient. When I'm not coding, you'll find me troubleshooting tech issues, editing videos, or learning something new online.
+
+**Currently:** Freelance Developer
 
 ---
 
-## Core Stack
-<p>
-  <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-111827?style=flat&logo=nextdotjs" alt="Next.js">
-  <img src="https://img.shields.io/badge/React%20Native-20232a?style=flat&logo=react" alt="React Native">
-  <img src="https://img.shields.io/badge/Laravel-1f2937?style=flat&logo=laravel" alt="Laravel">
-  <img src="https://img.shields.io/badge/Node.js-0b3d2e?style=flat&logo=nodedotjs" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-111827?style=flat&logo=express" alt="Express">
-  <img src="https://img.shields.io/badge/Fastify-111827?style=flat&logo=fastify" alt="Fastify">
-  <img src="https://img.shields.io/badge/TypeScript-1f2937?style=flat&logo=typescript" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat&logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-1f2937?style=flat&logo=php" alt="PHP">
-</p>
+## Tech Stack
 
-**Currently learning:** C#, Java, and expanding backend architecture & DevOps knowledge.
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
----
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
-## Databases & Tools
-**Databases:** PostgreSQL · MySQL · MongoDB  
-**Tools:** Git & GitHub · Docker · GitHub Actions · Postman · Thunder Client  
-**Styling:** Tailwind CSS · Bootstrap  
-**Creative Tools:** Adobe Premiere · Photoshop · Canva · Figma  
-**Environments:** Visual Studio Code · Visual Studio 2022
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
 ## Featured Projects
 
 ### E-Commerce Platform Evérest
-A full-featured e-commerce platform optimized for mobile and desktop.  
-**Stack:** EJS, Node.js, Express, Bootstrap, MongoDB  
-[Live Site](http://rested.sytes.net) · [Source Code](https://github.com/rustybro)
+My first major full-stack project - a complete smartphone e-commerce platform with modern features.
+
+**Features:** Product management, user auth, shopping cart, responsive design  
+[Live Demo](http://rested.sytes.net) | [Repo](https://github.com/rustybrozen/EverestShop-readme)
+
+### Personal Portfolio
+Clean, modern portfolio showcasing my projects and journey as a developer.
+
+**Features:** Responsive design, project showcase, contact form  
+[Live Site](https://portfolio-ten-gamma-17.vercel.app/)
+
+### Fresh Mart (In Progress)
+Laravel-based supermarket e-commerce with focus on performance and clean code.
+
 
 ---
 
-### Fresh Mart
-Supermarket e-commerce built with Laravel, designed for speed and straightforward product management.  
-**Stack:** Laravel, MySQL, Bootstrap
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rustybrozen&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rustybrozen&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</p>
 
 ---
 
-### Portfolio (Next.js)
-A clean, responsive portfolio showcasing projects and skills.  
-**Stack:** Next.js, Tailwind CSS  
-[View Portfolio](https://portfolio-ten-gamma-17.vercel.app/)
+## What I'm Up To
+
+- Working on: Laravel e-commerce projects and React apps (JS / TS)
+- Learning: C#/.NET, Java, Python and cloud deployment
+- Freelancing: Web development, mobile app development, and IT support services  
+- Exploring: AI tools for development productivity
+
+---
+
+## Connect With Me
+
+I'm always open to interesting conversations about tech, collaboration opportunities, or just to chat about development!
+
+- Email: zachudson12@gmail.com
+- Portfolio: [portfolio-ten-gamma-17.vercel.app](https://portfolio-ten-gamma-17.vercel.app/)
+- Available for freelance web and mobile projects
 
 ---
 
 <p align="center">
-  <i>Simplicity, clarity, and consistent delivery — whether in code or IT support.</i>
+  <i>Learning, building, and sharing one commit at a time</i>
 </p>
