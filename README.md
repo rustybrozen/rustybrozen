@@ -1,41 +1,59 @@
-# Hi, I'm Truong
-
-I am a developer passionate about building clean, efficient, and user-friendly applications.  
-My main focus is on web and mobile development using modern technologies.
-
-## Main Stack
-- React, Next.js  
-- React Native (Expo)  
-- Laravel  
-- Node.js (Express, Fastify)  
-- TypeScript, JavaScript, PHP
-
-## Currently Learning
-- C# and other languages at a basic level
-- Expanding my backend and DevOps skills
-
-## Databases
-- PostgreSQL  
-- MySQL  
-- MongoDB
-
-## Tools
-- Git & GitHub  
-- Docker  
-- GitHub Actions  
-- Postman, Thunder Client  
-- Visual Studio Code, Visual Studio 2022
-
-## Other Skills
-- Tailwind CSS, Bootstrap  
-- Adobe Premiere, Photoshop, Canva, Figma
-
-## Selected Projects
-**E-Commerce Platform Evérest**  
-A full-featured e-commerce web application designed for smartphones and desktop, focusing on a seamless shopping experience.  
-Tech stack: EJS, Node.js, MongoSQL, Bootstrap, Express  
-[View Project](rested.sytes.net) | [GitHub](https://github.com/rustybro)
+<h1 align="center">Truong</h1>
+<p align="center">
+  Web & Mobile Developer | Minimalist & Clean Code Enthusiast
+</p>
 
 ---
 
-I like to keep my work clean, minimal, and functional while always exploring new ways to improve.
+## About Me
+I focus on creating efficient, scalable, and user-friendly applications.  
+Most of my work revolves around modern web and mobile development, with a preference for clean, maintainable code.
+
+---
+
+## Core Tech
+**Frontend:** React, Next.js, React Native (Expo)  
+**Backend:** Laravel, Node.js (Express, Fastify)  
+**Languages:** TypeScript, JavaScript, PHP  
+**Styling:** Tailwind CSS, Bootstrap  
+
+---
+
+## Currently Exploring
+- C# and other languages at a basic level
+- Improving backend architecture and DevOps workflows
+
+---
+
+## Databases
+PostgreSQL · MySQL · MongoDB
+
+---
+
+## Tools
+Git & GitHub · GitHub Actions · Docker · Postman · Thunder Client  
+Visual Studio Code · Visual Studio 2022  
+Adobe Premiere · Photoshop · Canva · Figma
+
+---
+
+## Featured Projects
+
+### 1. [E-Commerce Platform Evérest](rested.sytes.net)
+A full-featured e-commerce platform optimized for mobile and desktop, delivering a seamless shopping experience.  
+**Stack:** EJS, Node.js, MongoSQL, Bootstrap, Express  
+[GitHub Repository](https://github.com/rustybro)
+
+### 2. Fresh Mart
+A supermarket e-commerce platform built with Laravel, designed for speed, clarity, and easy product management.  
+**Stack:** Laravel, MySQL, Bootstrap
+
+### 3. Portfolio (Next.js)
+A clean and responsive personal portfolio showcasing my projects and skills.  
+**Stack:** Next.js, Tailwind CSS
+
+---
+
+<p align="center">
+  <i>Striving for simplicity, clarity, and impact in every line of code.</i>
+</p>
