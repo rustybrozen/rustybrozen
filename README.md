@@ -3,13 +3,13 @@
 
 <p align="center">
   <!-- Contact / Presence -->
-  <a href="mailto:you@example.com">
+  <a href="mailto:zachudson12@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-1f2937?style=flat" alt="Email">
   </a>
-  <a href="https://github.com/rustybro">
+  <a href="https://github.com/rustybrozen">
     <img src="https://img.shields.io/badge/GitHub-rustybro-111827?style=flat&logo=github" alt="GitHub">
   </a>
-  <a href="https://your-portfolio-url.com">
+  <a href="https://portfolio-ten-gamma-17.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0f766e?style=flat" alt="Portfolio">
   </a>
 </p>
@@ -32,7 +32,7 @@ I build modern web and mobile applications with a minimalist approach. I value c
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-1f2937?style=flat&logo=php)
 
-**Currently learning:** C# and a few other languages at a basic level.
+**Currently learning:** C#, Java,  and a few other languages at a basic level.
 
 ## Data & Tools
 PostgreSQL · MySQL · MongoDB  
