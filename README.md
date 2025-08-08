@@ -1,25 +1,41 @@
-<h1 align="center">Hi, I'm Truong 👋</h1>
+# Hi, I'm Truong
 
-<p align="center">
-  💻 Developer | 🌏 Viet Nam | 🚀 Building cool stuff
-</p>
+I am a developer passionate about building clean, efficient, and user-friendly applications.  
+My main focus is on web and mobile development using modern technologies.
+
+## Main Stack
+- React, Next.js  
+- React Native (Expo)  
+- Laravel  
+- Node.js (Express, Fastify)  
+- TypeScript, JavaScript, PHP
+
+## Currently Learning
+- C# and other languages at a basic level
+- Expanding my backend and DevOps skills
+
+## Databases
+- PostgreSQL  
+- MySQL  
+- MongoDB
+
+## Tools
+- Git & GitHub  
+- Docker  
+- GitHub Actions  
+- Postman, Thunder Client  
+- Visual Studio Code, Visual Studio 2022
+
+## Other Skills
+- Tailwind CSS, Bootstrap  
+- Adobe Premiere, Photoshop, Canva, Figma
+
+## Selected Projects
+**E-Commerce Platform Evérest**  
+A full-featured e-commerce web application designed for smartphones and desktop, focusing on a seamless shopping experience.  
+Tech stack: EJS, Node.js, MongoSQL, Bootstrap, Express  
+[View Project](rested.sytes.net) | [GitHub](https://github.com/rustybro)
 
 ---
 
-### 🌱 About Me
-- 🎯 Focus: Web & Mobile Development  
-- ⚡ Love clean code and minimalist design  
-- 🐱 Cat lover, lavender fan
-
----
-
-### 📫 Contact
-[![Email](https://img.shields.io/badge/Email-truong%40example.com-blue)](mailto:truong@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Truong-black?logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Truong-blue?logo=linkedin)](https://linkedin.com/in/yourusername)
-
----
-
-<p align="center">
-  <i>“Code less, create more.”</i>
-</p>
+I like to keep my work clean, minimal, and functional while always exploring new ways to improve.
