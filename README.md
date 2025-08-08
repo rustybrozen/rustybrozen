@@ -1,59 +1,57 @@
 <h1 align="center">Truong</h1>
 <p align="center">
-  Web & Mobile Developer | Minimalist & Clean Code Enthusiast
+  Web & Mobile Developer · Passion for Clean Code · Minimalist Design
 </p>
 
 ---
 
-## About Me
-I focus on creating efficient, scalable, and user-friendly applications.  
-Most of my work revolves around modern web and mobile development, with a preference for clean, maintainable code.
+## Who I Am
+I am a developer focused on crafting efficient, scalable, and user-friendly applications.  
+My work blends modern technologies with a minimalist approach, prioritizing clarity, performance, and maintainability.
 
 ---
 
-## Core Tech
-**Frontend:** React, Next.js, React Native (Expo)  
-**Backend:** Laravel, Node.js (Express, Fastify)  
-**Languages:** TypeScript, JavaScript, PHP  
-**Styling:** Tailwind CSS, Bootstrap  
+## Core Technologies
+| Frontend | Backend | Languages | Styling |
+|----------|---------|-----------|---------|
+| React, Next.js, React Native (Expo) | Laravel, Node.js (Express, Fastify) | TypeScript, JavaScript, PHP | Tailwind CSS, Bootstrap |
 
 ---
 
-## Currently Exploring
-- C# and other languages at a basic level
-- Improving backend architecture and DevOps workflows
+## Currently Learning
+- Expanding knowledge in C# and other languages
+- Refining backend architecture and DevOps skills
 
 ---
 
-## Databases
-PostgreSQL · MySQL · MongoDB
-
----
-
-## Tools
-Git & GitHub · GitHub Actions · Docker · Postman · Thunder Client  
-Visual Studio Code · Visual Studio 2022  
-Adobe Premiere · Photoshop · Canva · Figma
+## Databases & Tools
+**Databases:** PostgreSQL · MySQL · MongoDB  
+**Tools:** Git & GitHub · GitHub Actions · Docker · Postman · Thunder Client  
+**Creative Tools:** Adobe Premiere · Photoshop · Canva · Figma
 
 ---
 
 ## Featured Projects
 
-### 1. [E-Commerce Platform Evérest](rested.sytes.net)
-A full-featured e-commerce platform optimized for mobile and desktop, delivering a seamless shopping experience.  
+### E-Commerce Platform Evérest
+A full-featured e-commerce platform optimized for both mobile and desktop, focusing on a seamless shopping experience.  
 **Stack:** EJS, Node.js, MongoSQL, Bootstrap, Express  
-[GitHub Repository](https://github.com/rustybro)
+[Live Demo](http://rested.sytes.net) · [GitHub Repository](https://github.com/rustybro)
 
-### 2. Fresh Mart
-A supermarket e-commerce platform built with Laravel, designed for speed, clarity, and easy product management.  
+---
+
+### Fresh Mart
+Supermarket e-commerce built with Laravel, designed for fast browsing and simple product management.  
 **Stack:** Laravel, MySQL, Bootstrap
 
-### 3. Portfolio (Next.js)
-A clean and responsive personal portfolio showcasing my projects and skills.  
+---
+
+### Personal Portfolio
+A responsive portfolio website to present projects and skills.  
 **Stack:** Next.js, Tailwind CSS
 
 ---
 
 <p align="center">
-  <i>Striving for simplicity, clarity, and impact in every line of code.</i>
+  <i>"Minimalist solutions, maximum impact."</i>
 </p>
