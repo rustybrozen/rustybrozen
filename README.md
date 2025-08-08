@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Truong 👋</h1>
 
-<!--
-**rustybrozen/rustybrozen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Developer | 🌏 Viet Nam | 🚀 Building cool stuff
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 About Me
+- 🎯 Focus: Web & Mobile Development  
+- ⚡ Love clean code and minimalist design  
+- 🐱 Cat lover, lavender fan
+
+---
+
+### 📫 Contact
+[![Email](https://img.shields.io/badge/Email-truong%40example.com-blue)](mailto:truong@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Truong-black?logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Truong-blue?logo=linkedin)](https://linkedin.com/in/yourusername)
+
+---
+
+<p align="center">
+  <i>“Code less, create more.”</i>
+</p>
