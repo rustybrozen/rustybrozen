@@ -1,6 +1,6 @@
-<h1 align="center">Truong</h1>
+<h1 align="center">Truong Pham</h1>
 <p align="center">
-  Web & Mobile Developer · IT Help Desk · Clean & Maintainable Software
+  Freelance Web & Mobile Developer · IT Help Desk · Clean & Maintainable Software
 </p>
 
 <p align="center">
