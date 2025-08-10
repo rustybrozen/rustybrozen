@@ -13,6 +13,7 @@ Hey there! I'm a junior web and mobile developer and IT student from Vietnam, pa
 
 I love exploring new technologies, especially AI-powered tools that make development more efficient. When I'm not coding, you'll find me troubleshooting tech issues, editing videos, or learning something new online.
 
+**Currently:** IT Student (graduating May 2025) + Freelance Developer
 
 ---
 
@@ -29,21 +30,6 @@ I love exploring new technologies, especially AI-powered tools that make develop
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC9543?style=flat&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=github&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9?style=flat&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-1C1C1C?style=flat&logoColor=white)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
 
 ### Styling & UI
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
@@ -55,13 +41,17 @@ I love exploring new technologies, especially AI-powered tools that make develop
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ### Tools & Development
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://skillicons.dev/icons?i=git)
+![Docker](https://skillicons.dev/icons?i=docker)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Figma](https://skillicons.dev/icons?i=figma)
 
 ### AI Tools
-
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC9543?style=flat&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=github&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9?style=flat&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1C1C1C?style=flat&logoColor=white)
 
 ### Currently Learning
 Python, C#/.NET, Java, and cloud deployment practices
@@ -73,22 +63,35 @@ Python, C#/.NET, Java, and cloud deployment practices
 ### E-Commerce Platform Evérest
 My first major full-stack project - a complete smartphone e-commerce platform with modern features.
 
+**Tech:** EJS, Node.js, Express, MongoDB, Bootstrap  
 **Features:** Product management, user auth, shopping cart, responsive design  
 [Live Demo](http://rested.sytes.net) | [Repo](https://github.com/rustybrozen/EverestShop-readme)
 
 ### Personal Portfolio
 Clean, modern portfolio showcasing my projects and journey as a developer.
 
+**Tech:** Next.js, Tailwind CSS  
 **Features:** Responsive design, project showcase, contact form  
 [Live Site](https://portfolio-ten-gamma-17.vercel.app/)
 
 ### Fresh Mart (In Progress)
 Laravel-based supermarket e-commerce with focus on performance and clean code.
 
+**Tech:** Laravel, MySQL, Bootstrap
 
 ---
 
 
+
+## What I'm Up To
+
+- Working on: Laravel e-commerce projects and React Native mobile apps
+- Learning: C#/.NET, Java, and cloud deployment
+- Freelancing: Web development, mobile app development, and IT support services  
+- Studying: IT at Ba Ria - Vung Tau College (GPA: 3.83)
+- Exploring: AI tools for development productivity
+
+---
 
 ## Connect With Me
 
