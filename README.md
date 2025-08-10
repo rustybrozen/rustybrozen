@@ -13,23 +13,37 @@ Hey there! I'm a junior web and mobile developer and IT student from Vietnam, pa
 
 I love exploring new technologies, especially AI-powered tools that make development more efficient. When I'm not coding, you'll find me troubleshooting tech issues, editing videos, or learning something new online.
 
-**Currently:** IT Student (graduating May 2025) + Freelance Developer
 
 ---
 
 ## Tech Stack
 
-### Core Expertise
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,php,react,nextjs,laravel,nodejs,express,fastify,tailwind,bootstrap,postgres,mongodb,MySQL,git,docker,vscode)](https://skillicons.dev)
-
-
-### AI Tools
+### My Core
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-CC9543?style=flat&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=github&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9?style=flat&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-1C1C1C?style=flat&logoColor=white)
+
 
 ---
 
@@ -47,19 +61,19 @@ Clean, modern portfolio showcasing my projects and journey as a developer.
 **Features:** Responsive design, project showcase, contact form  
 [Live Site](https://portfolio-ten-gamma-17.vercel.app/)
 
-### Fresh Mart (In Progress)
+### Fresh Mart
 Laravel-based supermarket e-commerce with focus on performance and clean code.
 
 
-
-
 ---
+
+
 
 ## Connect With Me
 
 I'm always open to interesting conversations about tech, collaboration opportunities, or just to chat about development!
 
-- Email: zachudson12@gmail.com
+- Email: pteverest12@gmail.com
 - Portfolio: [portfolio-ten-gamma-17.vercel.app](https://portfolio-ten-gamma-17.vercel.app/)
 - Available for freelance web and mobile projects
 
