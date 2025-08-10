@@ -1,6 +1,6 @@
 # Truong Pham
 
-**Web & Mobile Developer | IT Student | Building Clean, Modern Applications**
+**Web & Mobile Developer | IT Helpdesk Support | Building Clean, Modern Applications**
 
 [![GitHub](https://img.shields.io/badge/GitHub-rustybrozen-111827?style=flat&logo=github)](https://github.com/rustybrozen)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-0f766e?style=flat)](https://portfolio-ten-gamma-17.vercel.app/)
@@ -9,7 +9,7 @@
 
 ## About Me
 
-Hey there! I'm a junior web and mobile developer and IT student from Vietnam, passionate about building modern web and mobile applications. Currently studying Information Technology while freelancing and working on personal projects.
+Hey there! I'm a junior web and mobile developer and an IT from Vietnam, passionate about building modern web and mobile applications. Currently studying Information Technology while freelancing and working on personal projects.
 
 I love exploring new technologies, especially AI-powered tools that make development more efficient. When I'm not coding, you'll find me troubleshooting tech issues, editing videos, or learning something new online.
 
