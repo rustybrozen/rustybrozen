@@ -13,7 +13,6 @@ Hey there! I'm a junior web and mobile developer and IT student from Vietnam, pa
 
 I love exploring new technologies, especially AI-powered tools that make development more efficient. When I'm not coding, you'll find me troubleshooting tech issues, editing videos, or learning something new online.
 
-**Currently:** IT Student (graduating May 2025) + Freelance Developer
 
 ---
 
@@ -30,6 +29,21 @@ I love exploring new technologies, especially AI-powered tools that make develop
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC9543?style=flat&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=github&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9?style=flat&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1C1C1C?style=flat&logoColor=white)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
 
 ### Styling & UI
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
@@ -47,11 +61,7 @@ I love exploring new technologies, especially AI-powered tools that make develop
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ### AI Tools
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC9543?style=flat&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=github&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9?style=flat&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-1C1C1C?style=flat&logoColor=white)
+
 
 ### Currently Learning
 Python, C#/.NET, Java, and cloud deployment practices
