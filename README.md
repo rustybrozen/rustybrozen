@@ -13,7 +13,7 @@ Hey there! I'm a junior web and mobile developer and IT student from Vietnam, pa
 
 I love exploring new technologies, especially AI-powered tools that make development more efficient. When I'm not coding, you'll find me troubleshooting tech issues, editing videos, or learning something new online.
 
-**Currently:** IT College Student + Freelance Developer
+**Currently:** IT Student (graduating May 2025) + Freelance Developer
 
 ---
 
@@ -32,13 +32,13 @@ I love exploring new technologies, especially AI-powered tools that make develop
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
 
 ### Styling & UI
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ### Tools & Development
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -54,7 +54,7 @@ I love exploring new technologies, especially AI-powered tools that make develop
 ![Perplexity](https://img.shields.io/badge/Perplexity-1C1C1C?style=flat&logoColor=white)
 
 ### Currently Learning
-Python, C#/.NET, Java, Machine Learning, AI and cloud deployment practices
+Python, C#/.NET, Java, and cloud deployment practices
 
 ---
 
@@ -84,7 +84,7 @@ Laravel-based supermarket e-commerce with focus on performance and clean code.
 
 I'm always open to interesting conversations about tech, collaboration opportunities, or just to chat about development!
 
-- Email: pteverest12@gmail.com
+- Email: zachudson12@gmail.com
 - Portfolio: [portfolio-ten-gamma-17.vercel.app](https://portfolio-ten-gamma-17.vercel.app/)
 - Available for freelance web and mobile projects
 
