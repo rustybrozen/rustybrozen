@@ -1,4 +1,4 @@
-# Truong Pham
+# Pham Duc Truong
 
 **Web & Mobile Developer | IT Helpdesk Support | Building Clean, Modern Applications**
 
