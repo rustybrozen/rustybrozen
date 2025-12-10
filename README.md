@@ -1,6 +1,6 @@
 # Pham Duc Truong
 
-**Web & Mobile Developer | IT Helpdesk Support | Building Clean, Modern Applications**
+**Web & Mobile Developer | IT Helpdesk Support**
 
 [![GitHub](https://img.shields.io/badge/GitHub-rustybrozen-111827?style=flat&logo=github)](https://github.com/rustybrozen)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-0f766e?style=flat)](https://portfolio-ten-gamma-17.vercel.app/)
