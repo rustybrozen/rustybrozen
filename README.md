@@ -58,7 +58,7 @@ I love exploring new technologies, especially AI-powered tools that make develop
 My first major full-stack project - a complete smartphone e-commerce platform with modern features.
 
 **Features:** Product management, user auth, shopping cart, responsive design  
-[Live Demo](http://rested.sytes.net) | [Repo](https://github.com/rustybrozen/EverestShop-readme)
+[Live Demo](https://pande.us.to) | [Repo](https://github.com/rustybrozen/EverestShop-readme)
 
 ### Personal Portfolio
 Clean, modern portfolio showcasing my projects and journey as a developer.
