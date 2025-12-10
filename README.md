@@ -79,7 +79,7 @@ Laravel-based supermarket e-commerce with focus on performance and clean code.
 I'm always open to interesting conversations about tech, collaboration opportunities, or just to chat about development!
 
 - Email: pteverest12@gmail.com
-- Portfolio: [portfolio-ten-gamma-17.vercel.app](https://portfolio-ten-gamma-17.vercel.app/)
+- Portfolio: [portfoliorussell.soon.it](https://portfoliorussell.soon.it/)
 - Available for freelance web and mobile projects
 
 ---
