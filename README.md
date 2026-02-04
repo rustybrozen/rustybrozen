@@ -23,26 +23,18 @@ Also passionate about self-hosting and system architecture
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/-NoSQL-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
 ## Projects
 
-### Evérest (E-Commerce)
-A full-stack e-commerce platform. (EJS + Node.js)
-[Live Demo](https://pande.us.to)
-
-### Fashionty (E-Commerce)
-A fashion e-commerce platform. (React + Node.js)
-[Live Demo](https://coolevn.soon.it)
-
-### FreshGreen (E-Commerce)
-A supermarket management system focused on performance. (Laravel)
-[Live Demo](http://t480so88scocsw044o488g44.192.9.175.71.sslip.io)
-
-### Portfolio
-My personal space to showcase projects. (React)
-[Live Site](https://portfoliorussell.soon.it)
+| Project | Description | Stack | Demo |
+| :--- | :--- | :--- | :--- |
+| **FreshGreen** | High-performance supermarket POS & management system. | Laravel, MySQL, Docker | [Live Demo](http://t480so88scocsw044o488g44.192.9.175.71.sslip.io) |
+| **Fashionty** | Modern fashion retail interface with seamless UX. | React, Node.js | [Live Demo](https://coolevn.soon.it) |
+| **Evérest** | Full-stack e-commerce platform with server-side rendering. | EJS, Node.js, MongoDB | [Live Demo](https://pande.us.to) |
+| **Portfolio** | Personal showcase of projects and technical skills. | React, Tailwind CSS | [Live Demo](https://portfoliorussell.soon.it) |
 
 
 
