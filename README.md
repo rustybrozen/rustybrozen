@@ -27,15 +27,15 @@ I build web and mobile applications, specializing in the **JavaScript/TypeScript
 
 ## Projects
 
-### Evérest
+### Evérest (E-Commerce)
 A full-stack e-commerce platform for smartphones.
 [Live Demo](https://pande.us.to) | [Source Code](https://github.com/rustybrozen/EverestShop-readme)
 
 ### Portfolio
 My personal space to showcase projects.
-[Live Site](https://portfolio-ten-gamma-17.vercel.app/)
+[Live Site]([https://portfolio-ten-gamma-17.vercel.app/](https://portfoliorussell.soon.it/))
 
-### Fresh Mart
+### Fresh Mart (E-Commerce)
 A supermarket management system focused on performance.
 
 ---
