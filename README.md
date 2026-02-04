@@ -27,7 +27,7 @@ Also passionate about self-hosting and system architecture
 
 ---
 
-## 🚀 Projects
+## Projects
 
 | Project | Description | Stack | Demo |
 | :--- | :--- | :--- | :--- |
