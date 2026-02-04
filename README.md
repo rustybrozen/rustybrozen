@@ -9,7 +9,7 @@
 
 ## About
 
-Hi, I'm Truong (Russell). I am a junior developer.
+Hi, I'm Truong (Russell), also known as Anh Pan. I am a junior developer.
 
 Developer of high-performance web/mobile apps and intelligent automation bots,
 Also passionate about self-hosting and system architecture
