@@ -9,9 +9,10 @@
 
 ## About
 
-Hi, I'm Truong (Russell). I am a developer based in Vietnam.
+Hi, I'm Truong (Russell). I am a junior developer.
 
-I build web and mobile applications, specializing in the **JavaScript/TypeScript** ecosystem. I am also expanding my skills in **Python** for AI integration and Backend development.
+Developer of high-performance web/mobile apps and intelligent automation bots,
+Also passionate about self-hosting and system architecture
 
 ---
 
@@ -28,15 +29,22 @@ I build web and mobile applications, specializing in the **JavaScript/TypeScript
 ## Projects
 
 ### Evérest (E-Commerce)
-A full-stack e-commerce platform for smartphones.
-[Live Demo](https://pande.us.to) | [Source Code](https://github.com/rustybrozen/EverestShop-readme)
+A full-stack e-commerce platform. (EJS + Node.js)
+[Live Demo](https://pande.us.to)
+
+### Fashionty (E-Commerce)
+A fashion e-commerce platform. (React + Node.js)
+[Live Demo](https://coolevn.soon.it)
+
+### FreshGreen (E-Commerce)
+A supermarket management system focused on performance. (Laravel)
+[Live Demo](http://t480so88scocsw044o488g44.192.9.175.71.sslip.io)
 
 ### Portfolio
-My personal space to showcase projects.
-[Live Site]([https://portfolio-ten-gamma-17.vercel.app/](https://portfoliorussell.soon.it/))
+My personal space to showcase projects. (React)
+[Live Site](https://portfoliorussell.soon.it)
 
-### Fresh Mart (E-Commerce)
-A supermarket management system focused on performance.
+
 
 ---
 
