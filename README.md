@@ -31,13 +31,13 @@ Also passionate about self-hosting and system architecture
 
 | Project | Description | Stack | Demo |
 | :--- | :--- | :--- | :--- |
-| **FreshGreen** | High-performance supermarket POS & management system. | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | [Live Demo](http://t480so88scocsw044o488g44.192.9.175.71.sslip.io) |
-| **Fashionty** | Modern fashion storefront with seamless UX & Strapi CMS. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) | [Live Demo](https://coolevn.soon.it) |
-| **Evérest** | Full-stack e-commerce platform featuring Server-Side Rendering (SSR). | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) | [Live Demo](https://pande.us.to) |
-| **Portfolio** | Personal digital space to showcase projects and expertise. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) | [Live Demo](https://portfoliorussell.soon.it) |
-| **AnhPan POS** | Integrated Point of Sale system tailored for small F&B businesses. | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | [Live Demo](http://f80ocg0804c0k8gkoccgk8kw.192.9.175.71.sslip.io) |
-| **Z-Payment Bot** | Automated Telegram bot for payment reminders & subscription tracking. | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) | [Source Code](https://github.com/rustybrozen/Z-Payment-Bot) |
-| **...and more** | Explore all my repositories on GitHub. | | [Explore](https://github.com/rustybrozen?tab=repositories) |
+| **FreshGreen** | High-performance supermarket POS & management system. | <img src="https://skillicons.dev/icons?i=laravel,mysql" height="25" /> | [Live Demo](http://t480so88scocsw044o488g44.192.9.175.71.sslip.io) |
+| **Fashionty** | Modern fashion storefront with seamless UX and Strapi CMS. | <img src="https://skillicons.dev/icons?i=nextjs,nodejs,redis,postgres,strapi" height="25" /> | [Live Demo](https://coolevn.soon.it) |
+| **Evérest** | Full-stack e-commerce platform with Server-Side Rendering. | <img src="https://skillicons.dev/icons?i=nodejs,mongodb" height="25" /> | [Live Demo](https://pande.us.to) |
+| **Portfolio** | Personal digital space to showcase projects and technical skills. | <img src="https://skillicons.dev/icons?i=nextjs,tailwind" height="25" /> | [Live Demo](https://portfoliorussell.soon.it) |
+| **AnhPan POS** | Integrated Point of Sale system for small F&B businesses. | <img src="https://skillicons.dev/icons?i=php,mysql" height="25" /> | [Live Demo](http://f80ocg0804c0k8gkoccgk8kw.192.9.175.71.sslip.io) |
+| **Z-Payment Bot** | Automated Telegram bot for payment reminders and subscription tracking. | <img src="https://skillicons.dev/icons?i=nodejs,sqlite" height="25" /> | [Source Code](https://github.com/rustybrozen/Z-Payment-Bot) |
+| **Explore More** | View all repositories and ongoing experiments. | | [GitHub Profile](https://github.com/rustybrozen?tab=repositories) |
 
 
 
