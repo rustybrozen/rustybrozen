@@ -1,6 +1,6 @@
 # Pham Duc Truong
 
-**Web & Mobile Developer | IT Helpdesk**
+**Web, Mobile & AI Developer | IT Helpdes**
 
 [![GitHub](https://img.shields.io/badge/GitHub-rustybrozen-black?style=flat&logo=github)](https://github.com/rustybrozen)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-0f766e?style=flat)](https://portfoliorussell.soon.it/)
@@ -9,10 +9,10 @@
 
 ## About
 
-Hi, I'm Truong (Russell), also known as Anh Pan. I am a junior developer.
+Hi, I'm Truong (Russell), also known as Anh Pan. I am a freelance junior developer.
 
-Developer of high-performance web/mobile apps and intelligent automation bots,
-Also passionate about self-hosting and system architecture
+Developer of web and mobile apps, along with intelligent automation bots with AI integration.
+Also passionate about self-hosting and system architecture.
 
 ---
 
@@ -44,4 +44,4 @@ Also passionate about self-hosting and system architecture
 ## Contact
 
 * **Email:** pteverest12@gmail.com
-* **Portfolio:** [portfoliorussell.soon.it](https://portfoliorussell.soon.it/)
+* **Portfolio:** [anhpan.soon.it](https://anhpan.soon.it/)
