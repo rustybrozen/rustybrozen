@@ -1,6 +1,6 @@
 # Pham Duc Truong
 
-**Web, Mobile & AI Developer | IT Helpdes**
+**Web, Mobile & AI Developer | IT Helpdesk Support**
 
 [![GitHub](https://img.shields.io/badge/GitHub-rustybrozen-black?style=flat&logo=github)](https://github.com/rustybrozen)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-0f766e?style=flat)](https://anhpan.soon.it/)
