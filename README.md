@@ -1,4 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,11,22,168,85,247&height=190&section=header&text=Pham%20Duc%20Truong%20(Russell)&fontSize=36&fontColor=ffffff&fontAlignY=36&desc=%22You%20become%20responsible%2C%20forever%2C%20for%20what%20you%20have%20tamed%22&descSize=14&descAlignY=58&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffafcc,cdb4db,bde0fe&height=200&section=header&text=Pham%20Duc%20Truong%20(Russell)&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Web%2C%20Mobile%20%26%20AI%20Developer%20%7C%20IT%20Helpdesk%20Support&descSize=14&descColor=ffffff&descAlignY=62)
+
+<p align="center">
+  <i>"You become responsible, forever, for what you have tamed"</i>
+</p>
 
 **Web, Mobile & AI Developer | IT Helpdesk Support**
 
