@@ -14,6 +14,8 @@ Hi, I'm Truong (Russell), also known as Anh Pan. I am a freelance junior develop
 Developer of web and mobile apps, along with intelligent automation bots with AI integration.
 Also passionate about self-hosting and system architecture.
 
+<i><sub><font color="gray">Some of my projects are kept private for security or closed source reasons. Most of the repositories here are personal experiments, prototypes, and testing projects. For actual projects or work inquiries, feel free to contact me using the information below.</font></sub></i>
+
 ---
 
 ## Languages
