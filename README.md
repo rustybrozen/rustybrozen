@@ -1,10 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffafcc,cdb4db,bde0fe&height=200&section=header&text=Pham%20Duc%20Truong%20(Russell)&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Web%2C%20Mobile%20%26%20AI%20Developer%20%7C%20IT%20Helpdesk%20Support&descSize=14&descColor=ffffff&descAlignY=62)
+![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=FFB7B2,E2D4F0,B5EAD7&height=220&section=header&text=Pham%20Duc%20Truong%20(Russell)&fontSize=34&fontColor=ffffff&fontAlignY=32&desc=Web%2C%20Mobile%20and%20AI%20Developer%20%7C%20IT%20Helpdesk%20Support%20%E2%80%A2%20%22You%20become%20responsible%2C%20forever%2C%20for%20what%20you%20have%20tamed%22&descSize=12&descAlignY=62&descAlign=50)
 
-<p align="center">
-  <i>"You become responsible, forever, for what you have tamed"</i>
-</p>
-
-**Web, Mobile & AI Developer | IT Helpdesk Support**
 
 [![GitHub](https://img.shields.io/badge/GitHub-rustybrozen-black?style=flat&logo=github)](https://github.com/rustybrozen)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-0f766e?style=flat)](https://anhpan.soon.it/)
