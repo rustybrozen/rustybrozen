@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=FFB7B2,E2D4F0,B5EAD7&height=220&section=header&text=Pham%20Duc%20Truong%20(Russell)&fontSize=34&fontColor=ffffff&fontAlignY=32&desc=Web%2C%20Mobile%20and%20AI%20Developer%20%7C%20IT%20Helpdesk%20Support%20%E2%80%A2%20%22You%20become%20responsible%2C%20forever%2C%20for%20what%20you%20have%20tamed%22&descSize=12&descAlignY=62&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=FFB7B2,E2D4F0,B5EAD7&height=150&section=header&text=Pham%20Duc%20Truong%20(Russell)&fontSize=36&fontColor=ffffff&fontAlignY=32&desc=Web%2C%20Mobile%20and%20AI%20Developer%20%7C%20IT%20Helpdesk%20Support%20%E2%80%A2%20%22You%20become%20responsible%2C%20forever%2C%20for%20what%20you%20have%20tamed%22&descSize=12&descAlignY=62&descAlign=50)
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-rustybrozen-black?style=flat&logo=github)](https://github.com/rustybrozen)
