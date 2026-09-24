@@ -1,4 +1,4 @@
-# Pham Duc Truong
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,11,22,168,85,247&height=190&section=header&text=Pham%20Duc%20Truong%20(Russell)&fontSize=36&fontColor=ffffff&fontAlignY=36&desc=%22You%20become%20responsible%2C%20forever%2C%20for%20what%20you%20have%20tamed%22&descSize=14&descAlignY=58&descAlign=50)
 
 **Web, Mobile & AI Developer | IT Helpdesk Support**
 
